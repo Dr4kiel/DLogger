@@ -1,5 +1,7 @@
 # DLogger
 
+[![Static Badge](https://img.shields.io/badge/Downloads-V1.0-%2328d456)](https://github.com/Dr4kiel/DLogger/releases/download/1.0/DLogger.x64.zip)
+
 DLogger est un Logger simple en C/C++ permettant de gérer vos logs comme bon vous semble.
 
 ## Installation
